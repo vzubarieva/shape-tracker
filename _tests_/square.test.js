@@ -1,4 +1,4 @@
-import { TestScheduler } from 'jest';
+
 import Square from '../src/js/square.js';
 
 describe('Square', () => {
